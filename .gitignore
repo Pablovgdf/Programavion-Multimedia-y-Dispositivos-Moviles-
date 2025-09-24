@@ -1,0 +1,53 @@
+# Archivos del sistema
+**/.DS_Store
+**/Thumbs.db
+
+# Carpetas de compilación
+**/build/
+**/.gradle/
+**/.cxx/
+**/obj/
+**/.externalNativeBuild/
+
+# Archivos de Android Studio
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Archivos de configuración locales
+**/local.properties
+
+# Archivos temporales y logs
+**/*.log
+**/*.tmp
+**/*.swp
+**/*.swo
+
+# Archivos de salida (binarios, clases, APKs)
+**/*.apk
+**/*.ap_
+**/*.class
+**/*.dex
+
+# Lint
+**/lint/intermediates/
+**/lint/generated/
+
+# Firebase
+**/google-services.json
+**/google-services.plist
+
+# Keystores y claves
+**/*.keystore
+**/*.jks
+**/*.pem
+**/*.p12
+
+# Fastlane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+
+# Cache de IDEs o herramientas
+**/.cache/
